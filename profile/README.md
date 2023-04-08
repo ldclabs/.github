@@ -1,8 +1,8 @@
-# LDC Labs
-
 ## Abstract
 
-**LDC Labs** 是一个专注于设计和开发 Web3 基础设施及应用体系的非盈利组织，我们致力于制定 Web3 生态系统的交互协议标准，旨在构建一个可信赖的信息网络。我们的愿景是建立一个真实、繁荣的 Web3 社会。**LDC Labs** is a non-profit organization dedicated to designing and developing Web3 infrastructure and application ecosystems. We are committed to establishing interaction protocol standards for the Web3 ecosystem, with the aim of creating a trustworthy information network. Our vision is to build an authentic and thriving Web3 society.
+**LDC Labs** 是一个专注于设计和开发 Web3 基础设施及应用体系的非盈利组织，我们致力于制定 Web3 生态系统的交互协议标准，旨在构建一个可信赖的信息网络。我们的愿景是建立一个真实、繁荣的 Web3 社会。
+
+**LDC Labs** is a non-profit organization dedicated to designing and developing Web3 infrastructure and application ecosystems. We are committed to establishing interaction protocol standards for the Web3 ecosystem, with the aim of creating a trustworthy information network. Our vision is to build an authentic and thriving Web3 society.
 
 ## First Principles in Web3
 
@@ -14,6 +14,8 @@
 
 4. ⚖️ **价值激励 (Value Incentives)**：Web3 引入了原生数字货币和代币经济，以直接量化数据和服务的价值，这种机制可以更有效地驱动价值创造、流通和增长。Web3 introduces native digital currencies and token economies to directly quantify the value of data and services, driving value creation, circulation, and growth more effectively.
 
-这些第一性原理旨在解决当前 Web2 互联网中的一些根本性问题，是 Web3 社会更加公平、透明、安全和高效的基础。These first principles aim to address fundamental issues in the current Web2 internet and serve as the foundation for a more equitable, transparent, secure, and efficient Web3 society.
+这些第一性原理旨在解决当前 Web2 互联网中的一些根本性问题，是 Web3 社会更加公平、透明、安全和高效的基础。
+LDC Labs 将以这四大基本特性为指导原则，设计和开发 Web3 基础设施及应用生态。
 
-LDC Labs 将以这四大基本特性为指导原则，设计和开发 Web3 基础设施及应用生态。LDC Labs will use these four core principles as guiding principles to design and develop Web3 infrastructure and application ecosystems.
+These first principles aim to address fundamental issues in the current Web2 internet and serve as the foundation for a more equitable, transparent, secure, and efficient Web3 society.
+LDC Labs will use these four core principles as guiding principles to design and develop Web3 infrastructure and application ecosystems.
