@@ -1,8 +1,8 @@
 ## Abstract
 
-**LDC Labs** 是一个专注于设计和开发 Web3 基础设施及应用体系的非盈利组织，我们致力于制定 Web3 生态系统的交互协议标准，旨在构建一个可信赖的信息网络。我们的愿景是建立一个真实、繁荣的 Web3 社会。
+**LDC Labs** 是一个专注于设计和开发 Web3 基础设施及应用体系的非盈利组织，我们致力于制定 Web3 生态系统的交互协议标准，旨在构建一个可信赖的信息网络，促进社会发展，创造普惠价值。我们的愿景是建立一个真实、繁荣的 Web3 社会。
 
-**LDC Labs** is a non-profit organization dedicated to designing and developing Web3 infrastructure and application ecosystems. We are committed to establishing interaction protocol standards for the Web3 ecosystem, with the aim of creating a trustworthy information network. Our vision is to build an authentic and thriving Web3 society.
+**LDC Labs** is a non-profit organization dedicated to designing and developing Web3 infrastructure and application ecosystems. We are committed to establishing interaction protocol standards for the Web3 ecosystem, aiming to build a trustworthy information network that fosters social development and creates inclusive value. Our vision is to build an authentic and thriving Web3 society.
 
 ## First Principles in Web3
 
