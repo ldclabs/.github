@@ -1,21 +1,37 @@
 ## Abstract
 
-**LDC Labs** 是一个专注于设计和开发 Web3 基础设施及应用体系的组织，我们致力于制定 Web3 生态系统的交互协议标准，旨在构建一个可信赖的信息网络，促进社会发展，创造普惠价值。我们的愿景是建立一个真实、繁荣的 Web3 社会。
+**LDC Labs** is not just building *for* Web3. We are architecting the operating system for a new social and economic paradigm. Our mission is to build the **Social Turing Machine**: a decentralized, intelligent, and trustworthy information network that translates human language into verifiable, autonomous execution.
 
-**LDC Labs** is a organization dedicated to designing and developing Web3 infrastructure and application ecosystems. We are committed to establishing interaction protocol standards for the Web3 ecosystem, aiming to build a trustworthy information network that fosters social development and creates inclusive value. Our vision is to build an authentic and thriving Web3 society.
+We believe the next great leap in digital civilization will emerge from the radical synthesis of three foundational forces: the semantic precision of knowledge graphs, the verifiable trust of decentralized networks, and the intuitive power of large language models. Our work is dedicated to engineering the open protocols and infrastructure that will enable this future.
 
-## First Principles in Web3
+## Our Thesis: The Three-Pole Convergence
 
-1. 🪩 **去中心化 (Decentralization)**：Web3 旨在减少对中心化实体（如大型公司和政府机构）的依赖，通过去中心化网络赋予用户更多权力和控制权。Web3 aims to reduce reliance on centralized entities (such as large corporations and government agencies) by empowering users with more control and authority through decentralized networks.
+The promise of Web3 has stalled, limited by poor user experience and a lack of real-world semantic understanding. The power of AI remains caged, its black-box reasoning lacking the trust and verifiability required for societal-scale applications.
 
-2. 🔐 **自主控制 (Self-sovereignty)**：Web3 让用户拥有对自己数据和数字资产的完全控制权，使他们能够自由地管理和使用这些资源，而无需依赖第三方。Web3 enables users to have full control over their data and digital assets, allowing them to manage and use these resources freely without relying on third parties.
+LDC Labs' core thesis is that the breakthrough lies in their fusion. We are building the infrastructure that unifies these three critical poles:
 
-3. 🧬 **无需信任 (Trustlessness)**：Web3 使用密码学和共识算法来创建可信赖、可验证、安全的系统和可信开放的秩序，使用户或者应用能够在不用信任其他参与者的情况下进行交互。Web3 utilizes cryptography and consensus algorithms to create trustworthy, verifiable, and secure systems and a trusted open order, enabling users and applications to interact without the need to trust other participants.
+### 1. 🏛️ **The Semantic Layer: Language as Verifiable Logic**
 
-4. ⚖️ **价值激励 (Value Incentives)**：Web3 引入了原生数字货币和代币经济，以直接量化数据和服务的价值，这种机制可以更有效地驱动价值创造、流通和增长。Web3 introduces native digital currencies and token economies to directly quantify the value of data and services, driving value creation, circulation, and growth more effectively.
+To build a trustworthy world, machines must understand meaning with precision. This layer provides an explicit, symbolic representation of knowledge, making it composable, auditable, and governable. It transforms ambiguous language into a universal substrate of verifiable facts and rules.
 
-这些第一性原理旨在解决当前 Web2 互联网中的一些根本性问题，是 Web3 社会更加公平、透明、安全和高效的基础。
-LDC Labs 将以这四大基本特性为指导原则，设计和开发 Web3 基础设施及应用生态。
+*   **Our Contribution:** **KIP (Knowledge Interaction Protocol)** provides the standard for this layer, enabling AI to build and reason over an evolving, graph-based memory.
 
-These first principles aim to address fundamental issues in the current Web2 internet and serve as the foundation for a more equitable, transparent, secure, and efficient Web3 society.
-LDC Labs will use these four core principles as guiding principles to design and develop Web3 infrastructure and application ecosystems.
+### 2. 🔗 **The Decentralized Trust Layer: Execution as Immutable Truth**
+
+Every action, transaction, and state change must be verifiable and tamper-proof. This layer provides the cryptographic foundation for sovereign identity, secure execution, and auditable history, creating a system where trust is an emergent property of the architecture, not a reliance on intermediaries.
+
+*   **Our Contribution:** The **Anda Framework**, built on the **Internet Computer (ICP)** and **Trusted Execution Environments (TEE)**, anchors agent identity and execution to a decentralized, globally consistent ledger.
+
+### 3. 🧠 **The Intelligent Experience Layer: Interaction as Seamless Dialogue**
+
+The full power of this new web must be accessible to everyone through natural, intuitive interaction. This layer leverages Large Language Models (LLMs) as the ultimate interface, translating human intent into precise, structured commands for the underlying layers.
+
+*   **Our Contribution:** **Anda App** and the broader **Anda Ecosystem** are designed to provide a fluid, human-centric experience, hiding the complexity of the underlying protocols.
+
+## Our Vision: A Thriving Web3 Society
+
+By weaving these three layers together, we enable the "Social Turing Machine"—an autonomous, self-organizing network that can manage complex societal functions with unprecedented transparency, efficiency, and fairness. This is a future where contracts execute themselves, organizations run on verifiable logic, and AI agents collaborate to create inclusive, emergent value.
+
+This is the authentic and thriving Web3 society we are building.
+
+**Join us in architecting the future.**
