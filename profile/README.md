@@ -10,13 +10,13 @@ The promise of Web3 has stalled, limited by poor user experience and a lack of r
 
 LDC Labs' core thesis is that the breakthrough lies in their fusion. We are building the infrastructure that unifies these three critical poles:
 
-### 1. 🏛️ **The Semantic Layer: Language as Verifiable Logic**
+### 1. 🧬 **The Semantic Layer: Language as Verifiable Logic**
 
 To build a trustworthy world, machines must understand meaning with precision. This layer provides an explicit, symbolic representation of knowledge, making it composable, auditable, and governable. It transforms ambiguous language into a universal substrate of verifiable facts and rules.
 
 *   **Our Contribution:** **KIP (Knowledge Interaction Protocol)** provides the standard for this layer, enabling AI to build and reason over an evolving, graph-based memory.
 
-### 2. 🔗 **The Decentralized Trust Layer: Execution as Immutable Truth**
+### 2. 🪩 **The Decentralized Trust Layer: Execution as Immutable Truth**
 
 Every action, transaction, and state change must be verifiable and tamper-proof. This layer provides the cryptographic foundation for sovereign identity, secure execution, and auditable history, creating a system where trust is an emergent property of the architecture, not a reliance on intermediaries.
 
